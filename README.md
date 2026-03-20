@@ -5,7 +5,6 @@ The main goal of this project was to apply what I learnt and gain hands-on exper
 ## Features
 - Responsive layout using Tailwind breakpoints
 - Content sections styled with Tailwind utility classes
-- SVG icon integration
 
 ## Tech Stack
 - HTML
